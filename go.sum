@@ -1,6 +1,8 @@
 github.com/SSSaaS/sssa-golang v0.0.0-20170502204618-d37d7782d752 h1:NMpC6M+PtNNDYpq7ozB7kINpv10L5yeli5GJpka2PX8=
 github.com/SSSaaS/sssa-golang v0.0.0-20170502204618-d37d7782d752/go.mod h1:PbJ8S5YaSYAvDPTiEuUsBHQwTUlPs6VM+Av8Oi3v570=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/jwayong/sssa-golang v0.0.0-20170502204618-d37d7782d752 h1:42/EEZKHugcnEK2G9d+m0YOLvAkrI4PRgJRgRXU1NfY=
+github.com/jwayong/sssa-golang v0.0.0-20170502204618-d37d7782d752/go.mod h1:BilLeDOF2ufSpHQ5BbPQJx1jkQusCOBbQ3oAHzdG7I4=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/posener/sharedsecret v0.0.0-20200414095807-b90bfadc28af h1:RPL9y7YMFYjvNfgQrZCZbba+d5Wg0AoFWm47V3UIi0E=
 github.com/posener/sharedsecret v0.0.0-20200414095807-b90bfadc28af/go.mod h1:LIvGrrXJbNyL5LLA8joLMge6ownVy145L7+hwr9srs4=
